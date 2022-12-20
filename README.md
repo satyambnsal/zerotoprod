@@ -36,3 +36,14 @@ cargo install cargo-audit
 cargo audit
 ```
 
+
+https://www.lpalmieri.com/
+
+## User story - 1
+
+As a blog visitor, I want to subscribe to the newsletter, So that I can receive email updates when new content is published on the blog.
+
+```
+cargo install cargo-edit
+cargo add actix-web --vers 4.0.0
+```
